@@ -124,3 +124,6 @@
 ### [`송화`](http://naver.me/xB4hDZcy)
 - 고기
 - 한정식 
+
+### [`뽕사부`](http://naver.me/FYu3jIDu)
+- 중식
