@@ -127,3 +127,8 @@
 
 ### [`뽕사부`](http://naver.me/FYu3jIDu)
 - 중식
+
+### [`명가순두부`](http://naver.me/Fjr0xmG0)
+- 순두부
+- 초당 
+
